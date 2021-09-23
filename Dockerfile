@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-registry-proxy:1.8.1
+FROM k8s.gcr.io/kube-registry-proxy:0.4
